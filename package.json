@@ -1,29 +1,29 @@
 {
-  "name": "hyper-cycle",
-  "version": "1.0.0",
-  "description": "Hyper plugin that cycles through a set of profiles when new windows are opened.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/selkkie/hyper-cycle.git"
-  },
-  "keywords": [
+    "name": "hyper-colorcycler",
+    "version": "1.0.0",
+    "description": "Hyper plugin that cycles through a set of profiles when new windows are opened.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/selkkie/hyper-cycle.git"
+    },
+    "keywords": [
     "hyper",
     "hyper.app",
     "hyper-plugin",
     "hyperterm"
   ],
-  "author": "selkkie",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/selkkie/hyper-cycle/issues"
-  },
-  "homepage": "https://github.com/selkkie/hyper-cycle#readme",
-  "dependencies": {
-    "randomcolor": "^0.6.2",
-    "simple-color-functions": "^0.5.1"
-  }
+    "author": "selkkie",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/selkkie/hyper-cycle/issues"
+    },
+    "homepage": "https://github.com/selkkie/hyper-cycle#readme",
+    "dependencies": {
+        "randomcolor": "^0.6.2",
+        "simple-color-functions": "^0.5.1"
+    }
 }

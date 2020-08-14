@@ -1,4 +1,4 @@
-# hyper-cycle
+# hyper-colorcycler
 Hyper plugin that cycles through random colors when new windows are opened.
 
 ![Color cycling](https://github.com/selkkie/hyper-cycle/blob/master/hyper-cycle.gif)
